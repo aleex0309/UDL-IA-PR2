@@ -1,0 +1,7 @@
+a a1 a2 a3
+g g1 g2 g3 g4
+a1 g1 g2 10
+a2 g2 g3 5
+a2 g3 g4 10
+a3 g2 15
+a3 g4 10

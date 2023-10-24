@@ -1,0 +1,69 @@
+a a0 a1 a2 a3 a4 a5 a6 a7 a8 a9
+g g0 g1 g2 g3 g4 g5 g6 g7 g8 g9 g10 g11 g12 g13 g14
+a0 g13 g12 g14 g1 g4 g11 64
+a0 g7 g10 g6 g3 g1 63
+a0 g14 g13 50
+a0 g9 g12 g13 g0 g7 35
+a0 g12 g3 g9 g1 g5 g0 g14 4
+a0 g8 g0 g6 g10 g3 g12 g13 68
+a1 g7 g8 g3 g5 g12 87
+a1 g12 g7 g4 3
+a1 g13 g8 g10 g1 g2 81
+a1 g13 g4 g1 g11 g5 g8 g6 65
+a1 g3 g4 g13 g9 g7 g8 g6 76
+a1 g7 g3 96
+a2 g10 g2 g5 g8 g14 95
+a2 g1 g7 g10 g8 14
+a2 g8 g13 g6 48
+a2 g11 g0 g7 g13 g4 91
+a2 g9 g14 g6 g10 g2 g11 65
+a2 g0 g12 g3 70
+a2 g3 g6 g8 g5 g9 g11 59
+a2 g10 g8 g9 g11 1
+a3 g8 g12 g2 g14 g11 g3 g6 8
+a3 g13 g5 g9 g8 g3 65
+a3 g7 g13 g5 g6 g12 1
+a3 g8 g9 g12 g13 g5 g7 77
+a3 g12 g3 82
+a3 g8 g9 g2 12
+a3 g12 g13 g4 g0 g10 g1 11
+a3 g7 g0 97
+a4 g4 g1 g12 80
+a4 g5 g4 g1 22
+a4 g4 g8 g2 85
+a4 g10 g11 g4 g7 90
+a4 g7 g14 g1 g0 40
+a4 g5 g6 g12 g3 g4 14
+a4 g14 g11 g8 g3 78
+a5 g3 g0 51
+a5 g0 g11 g2 58
+a5 g8 g10 g6 g14 g3 g11 g7 29
+a5 g10 g0 g6 g14 g9 g5 85
+a5 g6 g0 g11 g4 g2 g3 g13 40
+a5 g13 g1 40
+a5 g11 g2 g6 g9 33
+a5 g0 g8 g14 76
+a6 g7 g2 g12 g11 g9 g8 5
+a6 g3 g5 g1 g14 g9 87
+a6 g9 g3 g7 g1 g10 50
+a6 g8 g7 g0 g5 79
+a6 g14 g4 g0 g2 g3 42
+a6 g12 g2 g5 g6 g3 g4 87
+a7 g14 g8 g5 g10 g13 63
+a7 g3 g1 g11 g0 g13 g2 22
+a7 g14 g8 g3 35
+a7 g9 g8 g4 g5 44
+a7 g1 g4 g3 g9 100
+a8 g9 g8 g12 14
+a8 g0 g6 g1 g13 19
+a8 g5 g1 g9 76
+a8 g1 g9 g8 g3 g13 11
+a8 g5 g4 g9 g8 15
+a8 g14 g4 g1 g0 g13 2
+a8 g10 g0 g1 g6 g12 g13 25
+a8 g12 g9 g6 21
+a9 g2 g10 g3 g14 g1 56
+a9 g12 g8 g4 g13 g14 92
+a9 g5 g1 g3 g10 g14 6
+a9 g0 g12 38
+a9 g9 g5 g7 g6 g13 g11 g1 9
